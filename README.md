@@ -38,7 +38,7 @@ Here I'm just updating the UI if the picture was a pizza or not(the green and re
 # Note:
 In case if you want to run this project in your own device, cloning and running wont work:(
 Why?
-Because the ml model is of size 95mb, but github did not allow me to upload a file which was greater than 95mb. In case of you want to test it out, let me know i will send you the ml model(It's just a matter of dragging and droping).
+Because the ml model is of size 95mb, but github did not allow me to upload a file which was greater than 95mb. In case if you want to test it out, let me know i will send you the ml model(It's just a matter of dragging and droping).
 
 # THANK YOU
 
